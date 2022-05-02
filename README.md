@@ -9,7 +9,7 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=AstragoDE.AstragoDE">
 </p>
 
-Hi, I am **Justus**, aka. Astrago. I'm a student living in Germany and I like to program.
+Hi, I am Astrago. I'm a student living in Germany and I like to program.
 
 #### Contact
 
