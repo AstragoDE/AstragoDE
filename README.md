@@ -49,6 +49,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 - [2022 GitHub Skyline](https://skyline.github.com/AstragoDE/2022)
 - [2021 GitHub Skyline](https://skyline.github.com/AstragoDE/2021)
+- [2020 GitHub Skyline](https://skyline.github.com/AstragoDE/2020)
 
 ### My GitHub Stats
 
