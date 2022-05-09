@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Astrago</h1>
+<h1 align="center">👋 Hey there, I'm AstragoDE</h1>
 
 <p align="center">
     <a href="https://www.astrago.de"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/firefox.svg" /></a>
@@ -9,13 +9,13 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=AstragoDE.AstragoDE">
 </p>
 
-Hi, I am Astrago. I'm a student living in Germany and I like to program.
+Hi, I am AstragoDE. I'm a student living in Germany and I like to program.
 
-#### Contact
+#### Contact 📬
 
 You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link).<br>
 
-### My skills
+### My skills 🎯
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
@@ -35,15 +35,20 @@ I am able to plan, develop and maintain a full application stack by using the fo
 </p>
 
 
-### My Projects
+### My Projects 🏗️
 
 - [Calculator for limited groth](https://rbw.astrago.de), the most self explainatory program to ever exist
 
 
-### My Goals
+### My Goals 🥅
 
 - Create more useful Apps and Programs **without Ads or Paywalls**
 - Create my own website and stop using Google Sites
+
+### My GitHub Commits (Skyline) 🌃
+
+- [2022 GitHub Skyline](https://skyline.github.com/AstragoDE/2022)
+- [2021 GitHub Skyline](https://skyline.github.com/AstragoDE/2021)
 
 ### My GitHub Stats
 
