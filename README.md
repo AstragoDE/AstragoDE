@@ -53,5 +53,5 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 ### My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstragoDE)
+![Astrago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstragoDE&show_icons=true&theme=tokyonight
 
