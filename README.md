@@ -37,7 +37,8 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 ### My Projects 🏗️
 
-- [Calculator for limited groth](https://rbw.astrago.de), the most self explainatory program to ever exist
+- [Calculator for limited groth](https://github.com/AstragoTech/calculator_for_limited_groth), the most self explainatory program to ever exist
+- [Discord Toolkit](https://github.com/AstragoTech/discord_toolkit)
 
 
 ### My Goals 🥅
