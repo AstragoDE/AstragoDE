@@ -11,13 +11,16 @@
 
 Hi, I am AstragoDE. I'm a student living in Germany and I like to program.
 
+
 #### Contact 📬
 
 You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link).<br>
 
+
 ### My skills 🎯
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
+
 
 <p align="left">
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" /> 
@@ -35,6 +38,13 @@ I am able to plan, develop and maintain a full application stack by using the fo
 </p>
 
 
+### My Organizations 🏢
+
+- [AstragoDE Tech](https://github.com/AstragoTech) for private projects
+- [AstragoDE Edu](https://github.com/AstragoEdu) for school projects
+- [Informatik - PGWV](https://github.com/InformatikPGWV) for group school projects
+
+
 ### My Projects 🏗️
 
 - [Calculator for limited groth](https://github.com/AstragoTech/calculator_for_limited_groth), the most self explainatory program to ever exist
@@ -44,7 +54,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 ### My Goals 🥅
 
 - Create more useful Apps and Programs **without Ads or Paywalls**
-- Create my own website and stop using Google Sites
+
 
 ### My GitHub Commits (Skyline) 🌃
 
@@ -52,7 +62,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 - [2021 GitHub Skyline](https://skyline.github.com/AstragoDE/2021)
 - [2020 GitHub Skyline](https://skyline.github.com/AstragoDE/2020)
 
+
 ### My GitHub Stats
 
 ![Astrago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstragoDE&show_icons=true&theme=tokyonight)
-
