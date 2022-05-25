@@ -8,7 +8,7 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,git,github,vscode" height="35"/>
+    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,git,github,vscode" height="38"/>
 
 </p>
 <p/>
