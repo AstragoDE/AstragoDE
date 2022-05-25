@@ -25,7 +25,7 @@
 <br>
 
 
-Hi, I am AstragoDE. I'm a student living in Germany and I like to program.
+Hi, I am AstragoDE. I'm a student living in Germany and I program stuff.
 
 
 ### Contact 📬
