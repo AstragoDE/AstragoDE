@@ -60,6 +60,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 - Create more useful Apps and Programs **without Ads or Paywalls**
 - Learn Vue
+- Learn MongoDB
 
 
 ### My GitHub Commits (Skyline) 🌃
