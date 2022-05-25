@@ -70,6 +70,6 @@ I am able to plan, develop and maintain a full application stack by using the fo
 - [2020 GitHub Skyline](https://skyline.github.com/AstragoDE/2020)
 
 
-### My GitHub Stats
+### My GitHub Stats 📊
 
 ![Astrago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstragoDE&show_icons=true&theme=tokyonight)
