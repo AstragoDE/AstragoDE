@@ -8,7 +8,12 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,git,github,vscode" height="38"/>
+    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,nginx,arduino,git,github" height="38"/>
+
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,blender,discord" height="38"/>
 
 </p>
 <p/>
@@ -25,7 +30,7 @@ Hi, I am AstragoDE. I'm a student living in Germany and I like to program.
 
 ### Contact 📬
 
-You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link) or via [Discord](https://discord.gg/wgEBbfjHpA).<br>
+You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link) or via [Discord](https://discord.gg/wgEBbfjHpA).
 
 
 ### My skills 🎯
@@ -54,6 +59,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 ### My Goals 🥅
 
 - Create more useful Apps and Programs **without Ads or Paywalls**
+- Learn Vue
 
 
 ### My GitHub Commits (Skyline) 🌃
