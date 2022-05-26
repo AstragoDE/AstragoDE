@@ -8,12 +8,12 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,nginx,arduino,git,github" height="38"/>
+    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,nginx,arduino,git,github" height="40"/>
 
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,blender,discord" height="38"/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,blender,discord" height="40"/>
 
 </p>
 <p/>
