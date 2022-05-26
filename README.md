@@ -40,8 +40,9 @@ I am able to plan, develop and maintain a full application stack by using the fo
 - Python
 - Flutter (and Dart)
 - HTML 5, CSS 3 & Tailwind CSS
+- Nginx
+- Arduino
 - Git & GitHub
-- VS Code
 
 
 ### My Organizations 🏢
