@@ -54,6 +54,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 ### My Projects 🏗️
 
+- [YouTube chapter auto open] (https://github.com/AstragoTech/youtube_chapter_auto_open)
 - [Discord Toolkit](https://github.com/AstragoTech/discord_toolkit)
 - [Calculator for limited groth](https://github.com/AstragoTech/calculator_for_limited_groth), the most self explainatory program to ever exist
 
