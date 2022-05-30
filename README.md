@@ -1,22 +1,17 @@
 <h1 align="center">👋 Hey there, I'm AstragoDE</h1>
 
-<!-- <p align="center">
-    <a href="https://www.astrago.de"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/firefox.svg" /></a>
-    <a href="https://www.youtube.com/channel/UCBwRnJ_byI-WjxTv0c0iVPw"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" /></a>
-</p> -->
-
 <!-- Badges -->
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,nginx,arduino,git,github" height="40"/>
-
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,blender,discord" height="40"/>
-
+    <img src="https://skillicons.dev/icons?i=vscode,idea,blender,discord,instagram" height="40"/>
 </p>
+
 <p/>
+
 <p align="center">
     <a><img src="https://hits.dwyl.com/AstragoDE/AstragoDE.svg?style=flat-square" /></a>
     <img src="https://img.shields.io/github/followers/AstragoDE?style=flat-square">
@@ -74,4 +69,12 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 ### My GitHub Stats 📊
 
-![Astrago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstragoDE&show_icons=true&theme=tokyonight)
+<p/>
+
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=AstragoDE&show_icons=true&theme=tokyonight"/>
+</p>
+
+<div align="right" style="text-align: right; color: rgba(0, 0, 0, 0.65)">
+    <p>© 2022 <a href="https://github.com/AstragoDE">AstragoDE</a></p>
+</div>
