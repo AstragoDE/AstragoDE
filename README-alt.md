@@ -1,44 +1,43 @@
 <h1 align="center">👋 Hey there, I'm AstragoDE</h1>
 
+<!-- Badges -->
+
 <p align="center">
-    <a href="https://www.astrago.de"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/firefox.svg" /></a>
-    <a href="https://www.youtube.com/channel/UCBwRnJ_byI-WjxTv0c0iVPw"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" /></a>
+    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,nginx,arduino,git,github" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=AstragoDE.AstragoDE">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,blender,discord,instagram" height="40"/>
 </p>
 
-Hi, I am AstragoDE. I'm a student living in Germany and I like to program.
+<p/>
+
+<p align="center">
+    <a><img src="https://hits.dwyl.com/AstragoDE/AstragoDE.svg?style=flat-square" /></a>
+    <img src="https://img.shields.io/github/followers/AstragoDE?style=flat-square">
+    <img alt="Discord" src="https://img.shields.io/discord/979036649294037032?label=Discord&style=flat-square">
+</p>
+<br>
+
+
+Hi, I am AstragoDE. I'm a student living in Germany and I program stuff.
 
 
 ### Contact 📬
 
-You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link).<br>
+You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link) or via [Discord](https://discord.gg/wgEBbfjHpA).
 
 
 ### My skills 🎯
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
-
-<!-- <p align="left">
-    <a href="https://python.org"> <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" /> </a>
-    <a href="https://dart.dev"> <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/dart.svg" /> </a>
-    <a href="https://flutter.dev/"> <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/flutter.svg" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" /> </a>
-    <a href="https://git-scm.com"> <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" /> </a>
-    <a href="https://code.visualstudio.com"> <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg" /> </a>
-    <a href="https://www.microsoft.com/en-gb/windows"> <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" /> </a>
-    <a href="https://trello.com"> <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/trello.svg" /> </a>
-    <a href="https://www.minecraft.net/en-us"> <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/minecraft.svg" /> </a>
-
-</p> -->
-
-
-![My Skills](https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,git,github,vscode)
-
+- Python
+- Flutter (and Dart)
+- HTML 5, CSS 3 & Tailwind CSS
+- Nginx
+- Arduino
+- Git & GitHub
 
 
 ### My Organizations 🏢
@@ -50,12 +49,15 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 ### My Projects 🏗️
 
+- [YouTube chapter auto open](https://github.com/AstragoTech/youtube_chapter_auto_open)
 - [Discord Toolkit](https://github.com/AstragoTech/discord_toolkit)
 - [Calculator for limited groth](https://github.com/AstragoTech/calculator_for_limited_groth), the most self explainatory program to ever exist
 
 ### My Goals 🥅
 
 - Create more useful Apps and Programs **without Ads or Paywalls**
+- Learn Vue
+- Learn MongoDB
 
 
 ### My GitHub Commits (Skyline) 🌃
@@ -65,6 +67,14 @@ I am able to plan, develop and maintain a full application stack by using the fo
 - [2020 GitHub Skyline](https://skyline.github.com/AstragoDE/2020)
 
 
-### My GitHub Stats
+### My GitHub Stats 📊
 
-![Astrago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstragoDE&show_icons=true&theme=tokyonight)
+<p/>
+
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=AstragoDE&show_icons=true&theme=tokyonight"/>
+</p>
+
+<div align="right" style="text-align: right">
+    <p>© 2022 <a href="https://github.com/AstragoDE">AstragoDE</a></p>
+</div>

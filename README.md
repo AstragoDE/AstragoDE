@@ -72,9 +72,10 @@ I am able to plan, develop and maintain a full application stack by using the fo
 <p/>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=AstragoDE&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AstragoDE&theme=blueberry&count_private=true&hide_border=true&line_height=20"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstragoDE&layout=compact&theme=blueberry&count_private=true&hide_border=true"/> -->
 </p>
 
-<div align="right" style="text-align: right; color: rgba(0, 0, 0, 0.65)">
+<div align="right" style="text-align: right;">
     <p>© 2022 <a href="https://github.com/AstragoDE">AstragoDE</a></p>
 </div>
