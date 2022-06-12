@@ -25,7 +25,7 @@ Hi, I am AstragoDE. I'm a student living in Germany and I program stuff.
 
 ### Contact 📬
 
-You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link) or via [Discord](https://discord.gg/wgEBbfjHpA).
+You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link) or via [Discord](https://discord.gg/732hZegHCb).
 
 
 ### My skills 🎯
