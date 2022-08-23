@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,blender,discord,instagram" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vscode,blender,discord,instagram" height="40"/>
 </p>
 
 <p/>
