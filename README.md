@@ -3,7 +3,7 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,nginx,arduino,git,github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,js,php,tailwind,nginx,arduino,git,github" height="40"/>
 </p>
 
 <p align="center">
