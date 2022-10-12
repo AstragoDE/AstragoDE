@@ -3,11 +3,11 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,js,php,tailwind,nginx,arduino,git,github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flutter,html,css,js,php,tailwind,nginx,arduino,markdown,git,github" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,blender,discord,instagram" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,vscode,intellij,blender,discord" height="40"/>
 </p>
 
 <p/>
