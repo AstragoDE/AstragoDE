@@ -10,9 +10,9 @@
     <img src="https://skillicons.dev/icons?i=vscode,blender,discord" height="40"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi" height="40"/>
-</p>
+</p> -->
 
 <p/>
 
