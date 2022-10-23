@@ -3,7 +3,7 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flutter,html,css,js,php,tailwind,nginx,arduino,markdown,git,github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,fastapi,astro,html,css,js,tailwind,nginx,arduino,markdown,git,github" height="40"/>
 </p>
 
 <p align="center">
@@ -13,8 +13,6 @@
 <!-- <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi" height="40"/>
 </p> -->
-
-<p/>
 
 <p align="center">
     <a><img src="https://hits.dwyl.com/AstragoDE/AstragoDE.svg?style=flat-square" /></a>
@@ -36,11 +34,12 @@ You can get in touch with me via [this Google Form](https://docs.google.com/form
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
-- Python
-- Flutter (and Dart)
-- HTML 5, CSS 3 & Tailwind CSS
+- Python (with FastAPI and several other packages)
+- Dart (and Flutter using packages)
+- Astro, HTML 5, CSS 3 & Tailwind CSS
 - Nginx
 - Arduino
+- Markdown
 - Git & GitHub
 
 
@@ -54,12 +53,12 @@ I am able to plan, develop and maintain a full application stack by using the fo
 ### My Projects 🏗️
 
 - [YouTube chapter auto open](https://github.com/AstragoTech/youtube_chapter_auto_open)
-- [Discord Toolkit](https://github.com/AstragoTech/discord_toolkit)
-- [Calculator for limited groth](https://github.com/AstragoTech/calculator_for_limited_groth), the most self explainatory program to ever exist
+- [Teachers' Lounge Information System](https://github.com/InformatikPGWV/astroTLIS) for [PGWV](http://pgwv.de)
+- [Calculator for limited groth](https://github.com/AstragoTech/calculator_for_limited_groth)
 
 ### My Goals 🥅
 
-- Create more useful Apps and Programs **without Ads or Paywalls**
+- Create more useful Websites, Apps and Programs **without Ads or Paywalls**
 - Learn Astro
 - Learn SurrealDB
 

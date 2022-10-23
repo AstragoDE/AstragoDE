@@ -3,12 +3,16 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,nginx,arduino,git,github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flutter,html,css,js,php,tailwind,nginx,arduino,markdown,git,github" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,blender,discord,instagram" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vscode,blender,discord" height="40"/>
 </p>
+
+<!-- <p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi" height="40"/>
+</p> -->
 
 <p/>
 
@@ -25,7 +29,7 @@ Hi, I am AstragoDE. I'm a student living in Germany and I program stuff.
 
 ### Contact 📬
 
-You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link) or via [Discord](https://discord.gg/wgEBbfjHpA).
+You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link) or via [Discord](https://discord.gg/732hZegHCb).
 
 
 ### My skills 🎯
@@ -56,15 +60,15 @@ I am able to plan, develop and maintain a full application stack by using the fo
 ### My Goals 🥅
 
 - Create more useful Apps and Programs **without Ads or Paywalls**
-- Learn Vue
-- Learn MongoDB
+- Learn Astro
+- Learn SurrealDB
 
 
-### My GitHub Commits (Skyline) 🌃
+<!-- ### My GitHub Commits (Skyline) 🌃
 
 - [2022 GitHub Skyline](https://skyline.github.com/AstragoDE/2022)
 - [2021 GitHub Skyline](https://skyline.github.com/AstragoDE/2021)
-- [2020 GitHub Skyline](https://skyline.github.com/AstragoDE/2020)
+- [2020 GitHub Skyline](https://skyline.github.com/AstragoDE/2020) -->
 
 
 ### My GitHub Stats 📊
@@ -72,9 +76,10 @@ I am able to plan, develop and maintain a full application stack by using the fo
 <p/>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=AstragoDE&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AstragoDE&theme=blueberry&count_private=true&hide_border=true&line_height=20"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstragoDE&layout=compact&theme=blueberry&count_private=true&hide_border=true"/> -->
 </p>
 
-<div align="right" style="text-align: right">
+<div align="right" style="text-align: right;">
     <p>© 2022 <a href="https://github.com/AstragoDE">AstragoDE</a></p>
 </div>
