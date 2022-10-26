@@ -46,8 +46,9 @@ I am able to plan, develop and maintain a full application stack by using the fo
 ### My Organizations 🏢
 
 - [AstragoDE Tech](https://github.com/AstragoDETech) for private projects
-- [AstragoDE Edu](https://github.com/AstragoDEEdu) for school projects
-- [Informatik - PGWV](https://github.com/InformatikPGWV) for school group projects
+- [Informatik - PGWV](https://github.com/InformatikPGWV) for school projects (computer science)
+- [AstragoDE Edu](https://github.com/AstragoDEEdu) for school projects (other subjects)
+- [AstragoDE Share](https://github.com/AstragoDEShare) for sharing code
 
 
 ### My Projects 🏗️
