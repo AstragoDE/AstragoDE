@@ -81,5 +81,5 @@ I am able to plan, develop and maintain a full application stack by using the fo
 </p>
 
 <div align="right" style="text-align: right;">
-    <p>© 2022 <a href="https://github.com/AstragoDE">AstragoDE</a></p>
+    <p>© 2022 - 2023 <a href="https://github.com/AstragoDE">AstragoDE</a></p>
 </div>
