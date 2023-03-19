@@ -34,8 +34,8 @@ You can get in touch with me via [this Google Form](https://docs.google.com/form
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
-- Python (with FastAPI and several other packages)
-- Dart (and Flutter using packages)
+- Python (including packages)
+- Dart (and Flutter including packages)
 - Astro, HTML 5, CSS 3 & Tailwind CSS
 - Nginx
 - Arduino
