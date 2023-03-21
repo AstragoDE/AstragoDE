@@ -45,11 +45,12 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 ### My Organizations 🏢
 
-- [AstragoDE Tech](https://github.com/AstragoDETech) for private projects
+- [AstragoDE Technology](https://github.com/AstragoDETechnology) for private projects
 - [WieSe Technology](https://github.com/WieSeTechnology) for professional projects
 - [Informatik - PGWV](https://github.com/InformatikPGWV) for school projects (computer science)
-- [AstragoDE Edu](https://github.com/AstragoDEEdu) for school projects (other subjects)
+- [AstragoDE Edu](https://github.com/AstragoDEEducation) for school projects (other subjects / school related projects)
 - [AstragoDE Share](https://github.com/AstragoDEShare) for sharing code
+- [AstragoDE Miscellaneous](https://github.com/AstragoDEMiscellaneous) for miscellaneous purposes
 
 
 ### My Projects 🏗️
