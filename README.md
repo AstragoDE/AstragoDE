@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,blender,discord" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,windows,raspberry,EMPTY,vscode,blender,discord" height="40"/>
 </p>
-
-<!-- <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi" height="40"/>
-</p> -->
 
 <p align="center">
     <a><img src="https://hits.dwyl.com/AstragoDE/AstragoDE.svg?style=flat-square" /></a>
@@ -35,7 +31,7 @@ You can get in touch with me via [this Google Form](https://docs.google.com/form
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
 - Python (including packages)
-- Dart (and Flutter including packages)
+- Dart and Flutter (including packages)
 - Astro, HTML 5, CSS 3 & Tailwind CSS
 - Nginx
 - Arduino
