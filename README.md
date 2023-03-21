@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,windows,raspberry,EMPTY,vscode,blender,discord" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,EMPTY,vscode,blender,discord" height="40"/>
 </p>
 
 <p align="center">
