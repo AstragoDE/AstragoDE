@@ -41,8 +41,8 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 ### My Organizations 🏢
 
-- [AstragoDE Technology](https://github.com/AstragoDETechnology) for private projects
-- [WieSe Technology](https://github.com/WieSeTechnology) for professional projects
+- [AstragoDE Technologies](https://github.com/AstragoDETechnologies) for private projects
+- [WieSe Technologies](https://github.com/WieSeTechnologies) for professional projects
 - [Informatik - PGWV](https://github.com/InformatikPGWV) for school projects (computer science)
 - [AstragoDE Education](https://github.com/AstragoDEEducation) for school projects (other subjects / school related projects)
 - [AstragoDE Sharing](https://github.com/AstragoDESharing) for sharing code
