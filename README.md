@@ -68,8 +68,14 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=AstragoDE&theme=blueberry&custom_title=AstragoDE%27s%20GitHub%20Stats&count_private=true&show_icons=false&hide_border=true&line_height=20"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AstragoDE&api_domain=wakapi.dev&theme=blueberry&custom_title=AstragoDE%27s%20Weekly%20Coding%20Stats&layout=compact&langs_count=6&hide_border=true&line_height=20"/>
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstragoDE&layout=compact&theme=blueberry&count_private=true&hide_border=true"/> -->
+</p>
+
+<p align="left">
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AstragoDE&api_domain=wakapi.dev&theme=blueberry&custom_title=AstragoDE%27s%20Weekly%20Coding%20Stats&layout=compact&langs_count=6&hide_border=true&line_height=20"/> -->
+</p>
+
+<p align="left">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstragoDE&layout=compact&theme=blueberry&count_private=true&hide_border=true"/> -->
 </p>
 
 <!-- ### My GitHub Commits (Skyline) 🌃
