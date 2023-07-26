@@ -46,7 +46,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 - [Informatik - PGWV](https://github.com/InformatikPGWV) for computer science projects (school)
 - [AstragoDE Education](https://github.com/AstragoDEEducation) for miscellaneous school projects (other subjects / school related projects)
 - [AstragoDE Sharing](https://github.com/AstragoDESharing) for sharing code
-- [AstragoDE Miscellaneous](https://github.com/AstragoDEMiscellaneous) for miscellaneous purposes (e.g. learning, testing, etc.)
+- [AstragoDE Miscellaneous](https://github.com/AstragoDEMiscellaneous) for miscellaneous purposes (e.g. learning, testing, tinkering, etc.)
 
 
 ## My Projects 🏗️
@@ -58,10 +58,10 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 ## My Goals 🥅
 
-- Create more useful Websites, Apps and Programs **without Ads or Paywalls**
 - Learn Rust
 - Learn SurrealDB
-- Learn Nuxt 3 and Astro
+- Learn Vue and Nuxt
+- Create more useful Websites, Apps and Programs **without Ads or Paywalls**
 
 
 ## My GitHub Stats 📊
