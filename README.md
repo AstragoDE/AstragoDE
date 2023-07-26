@@ -26,19 +26,19 @@ Hi, I am AstragoDE. I'm a student living in Germany and I like to program stuff.
 ## Contact 📬
 
 You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link).
-<!-- or via [Discord](https://discord.gg/732hZegHCb). -->
+<!-- or via [Discord](https://discord.gg/<INVITE_LINK>). -->
 
 
 ## My skills 🎯
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
+- Rust and Tauri
 - Python (including packages)
+- Vue, Nuxt 3, HTML 5, CSS 3 & Tailwind CSS
 - Dart and Flutter (including packages)
-- Nuxt 3, Astro, HTML 5, CSS 3 & Tailwind CSS
 - Nginx
 - Arduino
-- Markdown
 - Git & GitHub
 
 
@@ -64,7 +64,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 - Learn Rust
 - Learn SurrealDB
 - Learn Vue and Nuxt
-- Create more useful Websites, Apps and Programs **without Ads or Paywalls**
+- Create more useful Websites, Apps and Programs *without Ads or Paywalls*
 
 
 ## My GitHub Stats 📊
