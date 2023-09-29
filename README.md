@@ -43,6 +43,8 @@ Please note that I am not an expert in all of these technologies. I am still lea
 
 ## My Organizations 🏢
 
+For the sake of better organization, my projects are split up into multiple GitHub organizations. This way, I can keep my personal projects separate from my school projects and my professional projects.
+
 - [AstragoDE Technologies](https://github.com/AstragoDETechnologies) for personal projects (most of my projects are here)
 - [Informatik - PGWV](https://github.com/InformatikPGWV) for computer science projects (school)
 - [WieSe Technologies](https://github.com/WieSeTechnologies) for professional projects
