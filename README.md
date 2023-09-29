@@ -19,28 +19,27 @@
 </p>
 <br>
 
-
 Hi, I am AstragoDE. I'm a student living in Germany and I like to program stuff.
-
 
 ## Contact 📬
 
 You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link).
-<!-- or via [Discord](https://discord.gg/<INVITE_LINK>). -->
 
+<!-- or via [Discord](https://discord.gg/<INVITE_LINK>). -->
 
 ## My skills 🎯
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
-- Rust and Tauri
-- Python (including packages)
+- Rust (and Tauri)
+- Python 3
 - Vue, Nuxt 3, HTML 5, CSS 3 & Tailwind CSS
-- Dart and Flutter (including packages)
+- Dart and Flutter
 - Nginx
 - Arduino
 - Git & GitHub
 
+Please note that I am not an expert in all of these technologies. I am still learning and improving my skills.
 
 ## My Organizations 🏢
 
@@ -51,21 +50,18 @@ I am able to plan, develop and maintain a full application stack by using the fo
 - [AstragoDE Sharing](https://github.com/AstragoDESharing) for sharing code
 - [AstragoDE Miscellaneous](https://github.com/AstragoDEMiscellaneous) for miscellaneous purposes (e.g. learning, testing, tinkering, etc.)
 
-
 ## My Projects 🏗️
 
 - [YouTube chapter auto open](https://github.com/AstragoTech/youtube_chapter_auto_open) (Userscript)
 - [Disable Dead Keys on a German Keyboard](https://github.com/AstragoDETechnologies/disable-dead-keys-german-keyboard)
 - [Teachers' Lounge Information System](https://github.com/InformatikPGWV/astroTLIS) for [PGWV](http://pgwv.de)
 
-
 ## My Goals 🥅
 
 - Learn Rust
 - Learn SurrealDB
 - Learn Vue and Nuxt
-- Create more useful Websites, Apps and Programs *without Ads or Paywalls*
-
+- Create more useful Websites, Apps and Programs _without Ads or Paywalls_
 
 ## My GitHub Stats 📊
 
@@ -86,7 +82,6 @@ I am able to plan, develop and maintain a full application stack by using the fo
 <!-- - [2022 GitHub Skyline](https://skyline.github.com/AstragoDE/2022) -->
 <!-- - [2021 GitHub Skyline](https://skyline.github.com/AstragoDE/2021) -->
 <!-- - [2020 GitHub Skyline](https://skyline.github.com/AstragoDE/2020) -->
-
 
 <div align="right" style="text-align: right;">
     <p>© 2022 - 2023 <a href="https://github.com/AstragoDE">AstragoDE</a></p>
