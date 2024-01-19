@@ -3,11 +3,11 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,python,flutter,vue,nuxt,html,css,js,tailwind,nginx,arduino" height="40"/>
+    <img src="https://skillicons.dev/icons?i=rust,python,vue,nuxt,html,css,js,tailwind,nginx,arduino" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,blender,discord" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,docker,vscode,git,github,blender,discord" height="40"/>
 </p>
 
 <p align="center">
@@ -31,23 +31,22 @@ You can get in touch with me via [this Google Form](https://docs.google.com/form
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
-- Rust (and Tauri)
+- Rust
 - Python 3
 - Vue, Nuxt 3, HTML 5, CSS 3 & Tailwind CSS
-- Dart and Flutter
+- Docker
 - Nginx
-- Arduino
 - Git & GitHub
 
 Please note that I am not an expert in all of these technologies. I am still learning and improving my skills.
 
 ## My Organizations 🏢
 
-For the sake of better organization, my projects are split up into multiple GitHub organizations. This way, I can keep my personal projects separate from my school projects and my professional projects.
+For the sake of better organization, my projects are split up into multiple GitHub organizations. This way, I can keep my personal projects separate from my school projects and my other projects.
 
 - [AstragoDE Technologies](https://github.com/AstragoDETechnologies) for personal projects (most of my projects are here)
 - [Informatik - PGWV](https://github.com/InformatikPGWV) for computer science projects (school)
-- [WieSe Technologies](https://github.com/WieSeTechnologies) for professional projects
+- [WieSe Technologies](https://github.com/WieSeTechnologies) for hobby projects I develop with my friend @byRaiZe
 - [AstragoDE Education](https://github.com/AstragoDEEducation) for miscellaneous school projects (other subjects / school related projects)
 - [AstragoDE Sharing](https://github.com/AstragoDESharing) for sharing code
 - [AstragoDE Miscellaneous](https://github.com/AstragoDEMiscellaneous) for miscellaneous purposes (e.g. learning, testing, tinkering, etc.)
@@ -55,15 +54,15 @@ For the sake of better organization, my projects are split up into multiple GitH
 ## My Projects 🏗️
 
 - [YouTube chapter auto open](https://github.com/AstragoTech/youtube_chapter_auto_open) (Userscript)
-- [Disable Dead Keys on a German Keyboard](https://github.com/AstragoDETechnologies/disable-dead-keys-german-keyboard)
-- [Teachers' Lounge Information System](https://github.com/InformatikPGWV/astroTLIS) for [PGWV](http://pgwv.de)
+- [Disable Dead Keys on a German Keyboard](https://github.com/AstragoDETechnologies/disable-dead-keys-german-keyboard) (AutoHotkey Script)
+- [Teachers' Lounge Information System](https://github.com/InformatikPGWV/astroTLIS) for [PGWV](http://pgwv.de) (Webpage for an information display)
 
 ## My Goals 🥅
 
 - Learn Rust
 - Learn SurrealDB
 - Learn Vue and Nuxt
-- Create more useful Websites, Apps and Programs _without Ads or Paywalls_
+- Create more useful (open source) Websites, Apps and Programs _without Ads or Paywalls_
 
 ## My GitHub Stats 📊
 
@@ -80,11 +79,11 @@ For the sake of better organization, my projects are split up into multiple GitH
 </p> -->
 
 <!-- ### My GitHub Commits (Skyline) 🌃 -->
-<!-- - [2023 GitHub Skyline](https://skyline.github.com/AstragoDE/2023) -->
-<!-- - [2022 GitHub Skyline](https://skyline.github.com/AstragoDE/2022) -->
-<!-- - [2021 GitHub Skyline](https://skyline.github.com/AstragoDE/2021) -->
-<!-- - [2020 GitHub Skyline](https://skyline.github.com/AstragoDE/2020) -->
+<!-- - [2023 GitHub Skyline](https://skyline.github.com/astragode/2023) -->
+<!-- - [2022 GitHub Skyline](https://skyline.github.com/astragode/2022) -->
+<!-- - [2021 GitHub Skyline](https://skyline.github.com/astragode/2021) -->
+<!-- - [2020 GitHub Skyline](https://skyline.github.com/astragode/2020) -->
 
 <div align="right" style="text-align: right;">
-    <p>© 2022 - 2023 <a href="https://github.com/AstragoDE">AstragoDE</a></p>
+    <p>© 2022 - 2024 <a href="https://gh.astrago.de">AstragoDE</a></p>
 </div>
