@@ -54,7 +54,8 @@ For the sake of better organization, my projects are split up into multiple GitH
 
 ## My Projects 🏗️
 
-- [YouTube chapter auto open](https://github.com/AstragoTech/youtube_chapter_auto_open) (Userscript)
+- [YouTube Chapter Auto Open](https://github.com/AstragoTech/youtube_chapter_auto_open) (Userscript)
+- [YouTube Delay Filter](https://github.com/AstragoDETechnologies/yt-delay-filter) ([uBlock](https://github.com/gorhill/uBlock) Filter)
 - [Disable Dead Keys on a German Keyboard](https://github.com/AstragoDETechnologies/disable-dead-keys-german-keyboard) (AutoHotkey Script)
 - [Teachers' Lounge Information System](https://github.com/InformatikPGWV/astroTLIS) for [PGWV](http://pgwv.de) (Webpage for an information display)
 
