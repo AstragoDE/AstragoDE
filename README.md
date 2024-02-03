@@ -3,7 +3,7 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,python,vue,nuxt,html,css,js,tailwind,nginx,arduino" height="40"/>
+    <img src="https://skillicons.dev/icons?i=rust,python,vue,nuxt,html,css,js,tailwind,nginx" height="40"/>
 </p>
 
 <p align="center">
