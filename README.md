@@ -67,9 +67,10 @@ For the sake of better organization, my projects are split up into multiple GitH
 
 ## My Goals 🥅
 
-- Learn Rust
-- Learn SurrealDB
-- Learn Vue and Nuxt
+- Learn [Rust](https://www.rust-lang.org/)
+- Learn [SurrealDB](https://surrealdb.com/)
+- Learn [SvelteKit](https://kit.svelte.dev/)
+- Learn [Nuxt](https://nuxt.com/)
 - Create more useful (open source) Websites, Apps and Programs _without Ads or Paywalls_
 
 ## My GitHub Stats 📊
