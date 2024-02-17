@@ -15,7 +15,7 @@
         <img alt="GitHub Followers" src="https://img.shields.io/github/followers/AstragoDE?style=flat-square&label=GitHub%20Followers">
     </a>
     <a href="https://tw.astrago.de" target="_blank">
-        <img alt="Twitch Status" src="https://img.shields.io/twitch/status/astrago?style=flat-square&label=Twitch">
+        <img alt="Twitch Status" src="https://img.shields.io/twitch/status/astragode?style=flat-square&label=Twitch">
     </a>
     <a href="https://yt.astrago.de" target="_blank">
         <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBwRnJ_byI-WjxTv0c0iVPw?style=flat-square&label=YouTube%20Channel%20Subscribers&color=%23ff0000">
