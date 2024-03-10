@@ -71,7 +71,7 @@ For the sake of better organization, my projects are split up into multiple GitH
 
 You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link) or via my [Discord Support Server](https://discord.gg/bmHmDW39NH).
 
-![Discord Profile](https://lanyard-profile-readme.vercel.app/api/812370844406775808?animated=true)
+<details><summary>Discord Status</summary><img src="https://lanyard-profile-readme.vercel.app/api/812370844406775808?animated=true" alt="AstragoDE's Discord Status"/></details>
 
 ## My GitHub Stats 📊
 
