@@ -28,12 +28,6 @@
 
 Hi, I am AstragoDE. I'm a student living in Germany and I like to program stuff.
 
-## Contact 📬
-
-You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link).
-
-<!-- or via [Discord](https://discord.gg/<INVITE_LINK>). -->
-
 ## My skills 🎯
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
@@ -72,6 +66,12 @@ For the sake of better organization, my projects are split up into multiple GitH
 - Learn [SvelteKit](https://kit.svelte.dev/)
 - Learn [Nuxt](https://nuxt.com/)
 - Create more useful (open source) Websites, Apps and Programs _without Ads or Paywalls_
+
+## Contact 📬
+
+You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link) or via my [Discord Support Server](https://discord.gg/bmHmDW39NH).
+
+![Discord Profile](https://lanyard-profile-readme.vercel.app/api/812370844406775808?animated=true)
 
 ## My GitHub Stats 📊
 
