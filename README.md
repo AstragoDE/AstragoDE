@@ -41,16 +41,40 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 Please note that I am not an expert in all of these technologies. I am still learning and improving my skills.
 
+## My Programming Journey 🧭
+
+```mermaid
+timeline
+    title My Programming Journey
+
+    section Elementary School
+        3rd Grade   : Member of the School's Computer Club
+        4th Grade   : Redstone contraptions with Command Blocks in Minecraft
+
+    section Secondary School
+        7th Grade   : Web-Development with HTML, CSS and JS
+        8th Grade   : Python 2
+        9th Grade   : Python 3
+                    : Arduino
+        10th Grade  : Flutter and Dart
+        12th Grade  : Rust
+                    : Vue & Nuxt
+                    : Member of the IT-Expert Advisory Board of my City
+
+    section University of Applied Sciences
+        coming soon
+```
+
 ## My Organizations 🏢
 
 For the sake of better organization, my projects are split up into multiple GitHub organizations. This way, I can keep my personal projects separate from my school projects and my other projects.
 
 - [AstragoDE Technologies](https://github.com/AstragoDETechnologies) for personal projects (most of my projects are here)
-- [Informatik - PGWV](https://github.com/InformatikPGWV) for computer science projects (school)
 - [WieSe Technologies](https://github.com/WieSeTechnologies) for hobby projects I develop with my friend @byRaiZe
 - [AstragoDE Education](https://github.com/AstragoDEEducation) for miscellaneous school projects (other subjects / school related projects)
 - [AstragoDE Sharing](https://github.com/AstragoDESharing) for sharing code
 - [AstragoDE Miscellaneous](https://github.com/AstragoDEMiscellaneous) for miscellaneous purposes (e.g. learning, testing, tinkering, etc.)
+- [Informatik - PGWV](https://github.com/InformatikPGWV) for computer science projects (secondary school)
 
 ## My Projects 🏗️
 
