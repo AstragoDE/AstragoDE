@@ -3,11 +3,11 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,python,vue,nuxt,html,css,js,tailwind,nginx" height="40"/>
+    <img src="https://skillicons.dev/icons?i=rust,python,nuxt,html,css,js,tailwind,nginx" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,docker,vscode,git,github,blender,discord" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,windows,docker,vscode,git,github,blender,discord" height="40"/>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 - Rust
 - Python 3
-- Vue, Nuxt 3, HTML 5, CSS 3 & Tailwind CSS
+- Nuxt 3, HTML 5, CSS 3 & Tailwind CSS
 - Docker
 - Nginx
 - Git & GitHub
@@ -65,30 +65,21 @@ timeline
         coming soon
 ```
 
-## My Organizations 🏢
-
-For the sake of better organization, my projects are split up into multiple GitHub organizations. This way, I can keep my personal projects separate from my school projects and my other projects.
-
-- [AstragoDE Technologies](https://github.com/AstragoDETechnologies) for personal projects (most of my projects are here)
-- [WieSe Technologies](https://github.com/WieSeTechnologies) for hobby projects I develop with my friend @byRaiZe
-- [AstragoDE Education](https://github.com/AstragoDEEducation) for miscellaneous school projects (other subjects / school related projects)
-- [AstragoDE Sharing](https://github.com/AstragoDESharing) for sharing code
-- [AstragoDE Miscellaneous](https://github.com/AstragoDEMiscellaneous) for miscellaneous purposes (e.g. learning, testing, tinkering, etc.)
-- [Informatik - PGWV](https://github.com/InformatikPGWV) for computer science projects (secondary school)
-
 ## My Projects 🏗️
 
 - [YouTube Chapter Auto Open](https://github.com/AstragoTech/youtube_chapter_auto_open) (Userscript)
 - [YouTube Delay Filter](https://github.com/AstragoDETechnologies/yt-delay-filter) ([uBlock](https://github.com/gorhill/uBlock) Filter)
-- [Disable Dead Keys on a German Keyboard](https://github.com/AstragoDETechnologies/disable-dead-keys-german-keyboard) (AutoHotkey Script)
-- [Teachers' Lounge Information System](https://github.com/InformatikPGWV/astroTLIS) for [PGWV](http://pgwv.de) (Webpage for an information display)
+- [Disable Dead Keys on a German Keyboard](https://github.com/AstragoDETechnologies/disable-dead-keys-german-keyboard) - An AutoHotkey Script
+- [Teachers' Lounge Information System](https://github.com/WieSeTechnologies/astroTLIS) for [PGWV](http://pgwv.de) - A Webpage for an information display / Digital Signage
+- [Discord Toolkit](https://github.com/AstragoDETechnologies/discord_toolkit) - A website that allows the generation of Timestamps and Profile URLs
+- [Rust Template](https://github.com/AstragoDETechnologies/rust-template) - A simplistic Rust Template
 
 ## My Goals 🥅
 
-- Learn [Rust](https://www.rust-lang.org/)
+- Continue learning [Rust](https://www.rust-lang.org/)
 - Learn [SurrealDB](https://surrealdb.com/)
 - Learn [SvelteKit](https://kit.svelte.dev/)
-- Learn [Nuxt](https://nuxt.com/)
+- Continue learning [Nuxt](https://nuxt.com/)
 - Create more useful (open source) Websites, Apps and Programs _without Ads or Paywalls_
 
 ## Contact 📬
@@ -106,6 +97,17 @@ You can get in touch with me via [this Google Form](https://docs.google.com/form
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AstragoDE&api_domain=wakapi.dev&theme=blueberry&custom_title=AstragoDE%27s%20Weekly%20Coding%20Stats&layout=compact&langs_count=6&hide_border=true&line_height=20" alt="AstragoDE's Weekly Coding Stats"/>
 </p>
+
+<!-- ## My Organizations 🏢
+
+For the sake of better organization, my projects are split up into multiple GitHub organizations. This way, I can keep my personal projects separate from my school projects and my other projects.
+
+- [AstragoDE Technologies](https://github.com/AstragoDETechnologies) for personal projects (most of my projects are here)
+- [WieSe Technologies](https://github.com/WieSeTechnologies) for projects I develop with my friend @byRaiZe
+- [AstragoDE Education](https://github.com/AstragoDEEducation) for school & [UAS](https://en.wikipedia.org/wiki/Fachhochschule) projects not belonging to their respective oranizations
+- [AstragoDE Sharing](https://github.com/AstragoDESharing) for sharing code
+- [AstragoDE Miscellaneous](https://github.com/AstragoDEMiscellaneous) for miscellaneous purposes (e.g. learning, testing, tinkering, etc.)
+- [Informatik - PGWV](https://github.com/InformatikPGWV) for computer science projects (secondary school (2015 - 2024)) -->
 
 <!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstragoDE&layout=compact&theme=blueberry&count_private=true&hide_border=true"/>
