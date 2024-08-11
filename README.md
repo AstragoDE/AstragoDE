@@ -52,12 +52,13 @@ timeline
         4th Grade   : Redstone contraptions with Command Blocks in Minecraft
 
     section Secondary School
-        7th Grade   : Web-Development with HTML, CSS & JS
+        7th Grade   : HTML, CSS & JS
         8th Grade   : Python 2
         9th Grade   : Python 3
                     : Arduino
         10th Grade  : Flutter & Dart
         12th Grade  : Rust
+                    : Astro
                     : Vue & Nuxt
                     : Member of the IT-Expert Advisory Board of my City
 
