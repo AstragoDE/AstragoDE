@@ -92,11 +92,11 @@ You can get in touch with me via [this Google Form](https://docs.google.com/form
 ## My GitHub Stats 📊
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=AstragoDE&theme=blueberry&custom_title=AstragoDE%27s%20GitHub%20Stats&count_private=true&show_icons=false&hide_border=true&line_height=20" alt="AstragoDE's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AstragoDE&theme=blueberry&custom_title=AstragoDE%27s%20GitHub%20Stats&count_private=true&show_icons=false&hide_border=true&line_height=20&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AstragoDE's GitHub Stats"/>
 </p>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AstragoDE&api_domain=wakapi.dev&theme=blueberry&custom_title=AstragoDE%27s%20Weekly%20Coding%20Stats&layout=compact&langs_count=6&hide_border=true&line_height=20" alt="AstragoDE's Weekly Coding Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AstragoDE&api_domain=wakapi.dev&theme=blueberry&custom_title=AstragoDE%27s%20Weekly%20Coding%20Stats&layout=compact&langs_count=6&hide_border=true&line_height=20&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AstragoDE's Weekly Coding Stats"/>
 </p>
 
 <!-- ## My Organizations 🏢
