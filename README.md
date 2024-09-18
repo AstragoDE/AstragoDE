@@ -53,9 +53,9 @@ timeline
 
     section Secondary School
         7th Grade   : HTML, CSS & JS
-        8th Grade   : Python 2
-        9th Grade   : Python 3
-                    : Arduino
+                    : Member of the School's Computer Club
+        8th Grade   : Python
+        9th Grade   : Arduino
         10th Grade  : Flutter & Dart
         12th Grade  : Rust
                     : Astro
