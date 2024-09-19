@@ -52,6 +52,7 @@ timeline
         4th Grade   : Redstone contraptions with Command Blocks in Minecraft
 
     section Secondary School
+        5th Grade   : Android Apps using the MIT App Inventor
         7th Grade   : HTML, CSS & JS
                     : Member of the School's Computer Club
         8th Grade   : Python
