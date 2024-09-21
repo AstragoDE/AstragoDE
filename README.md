@@ -34,7 +34,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 - Rust
 - Python 3
-- Nuxt 3, HTML 5, CSS 3 & Tailwind CSS
+- Astro, Nuxt 3, HTML, CSS & Tailwind CSS
 - Docker
 - Nginx
 - Git & GitHub
@@ -60,11 +60,11 @@ timeline
         10th Grade  : Flutter & Dart
         12th Grade  : Rust
                     : Astro
-                    : Vue & Nuxt
+                    : Nuxt 3
                     : Member of the IT-Expert Advisory Board of my City
 
     section University of Applied Sciences
-        coming soon
+        1st Semester: Java
 ```
 
 ## My Projects 🏗️
@@ -79,9 +79,10 @@ timeline
 ## My Goals 🥅
 
 - Continue learning [Rust](https://www.rust-lang.org/)
+- Learn [PostgreSQL](https://www.postgresql.org/)
 - Learn [SurrealDB](https://surrealdb.com/)
+- Continue learning [Nuxt 3](https://nuxt.com/)
 - Learn [SvelteKit](https://kit.svelte.dev/)
-- Continue learning [Nuxt](https://nuxt.com/)
 - Create more useful (open source) Websites, Apps and Programs _without Ads or Paywalls_
 
 ## Contact 📬
