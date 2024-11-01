@@ -70,7 +70,6 @@ timeline
 ## My Projects 🏗️
 
 - [YouTube Chapter Auto Open](https://github.com/AstragoTech/youtube_chapter_auto_open) (Userscript)
-- [YouTube Delay Filter](https://github.com/AstragoDETechnologies/yt-delay-filter) ([uBlock](https://github.com/gorhill/uBlock) Filter)
 - [Disable Dead Keys on a German Keyboard](https://github.com/AstragoDETechnologies/disable-dead-keys-german-keyboard) - An AutoHotkey Script
 - [Teachers' Lounge Information System](https://github.com/WieSeTechnologies/astroTLIS) for [PGWV](http://pgwv.de) - A Webpage for an information display / Digital Signage
 - [Rust Template](https://github.com/AstragoDETechnologies/rust-template) - A simplistic Rust Template
