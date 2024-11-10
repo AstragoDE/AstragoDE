@@ -38,6 +38,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 - Docker
 - Nginx
 - Git & GitHub
+- Typst
 
 Please note that I am not an expert in all of these technologies. I am still learning and improving my skills.
 
