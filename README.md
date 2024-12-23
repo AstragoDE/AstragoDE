@@ -3,11 +3,11 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,python,nuxt,html,css,js,tailwind,nginx" height="40"/>
+    <img src="https://skillicons.dev/icons?i=rust,python,java,astro,nuxt,html,css,js,tailwind" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,windows,docker,vscode,git,github,blender,discord" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,git,github,vscode,discord,blender" height="40"/>
 </p>
 
 <p align="center">
@@ -26,7 +26,9 @@
 </p>
 <br>
 
-Hi, I am AstragoDE. I'm a student living in Germany and I like to program stuff.
+Hi, I am AstragoDE.
+
+I'm a computer science student from Germany and I like programming stuff.
 
 ## My skills 🎯
 
@@ -79,9 +81,9 @@ timeline
 
 - Continue learning [Rust](https://www.rust-lang.org/)
 - Learn [PostgreSQL](https://www.postgresql.org/)
-- Learn [SurrealDB](https://surrealdb.com/)
 - Continue learning [Nuxt 3](https://nuxt.com/)
 - Learn [SvelteKit](https://kit.svelte.dev/)
+- Learn [SurrealDB](https://surrealdb.com/)
 - Create more useful (open source) Websites, Apps and Programs _without Ads or Paywalls_
 
 ## Contact 📬
@@ -100,26 +102,28 @@ You can get in touch with me via [this Google Form](https://docs.google.com/form
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AstragoDE&api_domain=wakapi.dev&theme=blueberry&custom_title=AstragoDE%27s%20Weekly%20Coding%20Stats&layout=compact&langs_count=6&hide_border=true&line_height=20&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AstragoDE's Weekly Coding Stats"/>
 </p></details>
 
-<details><summary>My Contribution Graph</summary><p align="left">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=astragode&theme=github-compact&days=14" alt="AstragoDE's Contribution Graph"/>
+<details><summary>My GitHub Contribution Graph</summary><p align="left">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=astragode&theme=github-compact&days=14" alt="AstragoDE's GitHub Contribution Graph"/>
 </p></details>
 
-<!-- ## My Organizations 🏢
+## My Organizations 🏢
 
-For the sake of better organization, my projects are split up into multiple GitHub organizations. This way, I can keep my personal projects separate from my school projects and my other projects.
+For the sake of better organization, my projects are split up into multiple GitHub organizations.
+This way, I can keep my personal projects separate from my school projects and my miscellaneous projects.
 
 - [AstragoDE Technologies](https://github.com/AstragoDETechnologies) for personal projects (most of my projects are here)
 - [WieSe Technologies](https://github.com/WieSeTechnologies) for projects I develop with my friend @byRaiZe
 - [AstragoDE Education](https://github.com/AstragoDEEducation) for school & [UAS](https://en.wikipedia.org/wiki/Fachhochschule) projects not belonging to their respective oranizations
-- [AstragoDE Sharing](https://github.com/AstragoDESharing) for sharing code
+- [AstragoDE Sharing](https://github.com/AstragoDESharing) for sharing code (mostly snippets)
 - [AstragoDE Miscellaneous](https://github.com/AstragoDEMiscellaneous) for miscellaneous purposes (e.g. learning, testing, tinkering, etc.)
-- [Informatik - PGWV](https://github.com/InformatikPGWV) for computer science projects (secondary school (2015 - 2024)) -->
+- [Informatik - PGWV](https://github.com/InformatikPGWV) for computer science projects (secondary school (2021 - 2024))
 
 <!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstragoDE&layout=compact&theme=blueberry&count_private=true&hide_border=true"/>
 </p> -->
 
 <!-- ### My GitHub Commits (Skyline) 🌃 -->
+<!-- - [2024 GitHub Skyline](https://skyline.github.com/astragode/2024) -->
 <!-- - [2023 GitHub Skyline](https://skyline.github.com/astragode/2023) -->
 <!-- - [2022 GitHub Skyline](https://skyline.github.com/astragode/2022) -->
 <!-- - [2021 GitHub Skyline](https://skyline.github.com/astragode/2021) -->
