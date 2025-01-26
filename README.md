@@ -72,19 +72,16 @@ timeline
 
 ## My Projects 🏗️
 
+- [Rust Template](https://github.com/AstragoDETechnologies/rust-template) - A simplistic Rust Template
+- [Teachers' Lounge Information System](https://github.com/WieSeTechnologies/astroTLIS) for [PGWV](http://pgwv.de) - A Webpage for an information display / Digital Signage
 - [YouTube Chapter Auto Open](https://github.com/AstragoTech/youtube_chapter_auto_open) (Userscript)
 - [Disable Dead Keys on a German Keyboard](https://github.com/AstragoDETechnologies/disable-dead-keys-german-keyboard) - An AutoHotkey Script
-- [Teachers' Lounge Information System](https://github.com/WieSeTechnologies/astroTLIS) for [PGWV](http://pgwv.de) - A Webpage for an information display / Digital Signage
-- [Rust Template](https://github.com/AstragoDETechnologies/rust-template) - A simplistic Rust Template
 
 ## My Goals 🥅
 
 - Continue learning [Rust](https://www.rust-lang.org/)
 - Learn [PostgreSQL](https://www.postgresql.org/)
-- Continue learning [Nuxt 3](https://nuxt.com/)
 - Learn [SvelteKit](https://kit.svelte.dev/)
-- Learn [SurrealDB](https://surrealdb.com/)
-- Create more useful (open source) Websites, Apps and Programs _without Ads or Paywalls_
 
 ## Contact 📬
 
@@ -123,6 +120,7 @@ This way, I can keep my personal projects separate from my school projects and m
 </p> -->
 
 <!-- ### My GitHub Commits (Skyline) 🌃 -->
+<!-- - [2025 GitHub Skyline](https://skyline.github.com/astragode/2025) -->
 <!-- - [2024 GitHub Skyline](https://skyline.github.com/astragode/2024) -->
 <!-- - [2023 GitHub Skyline](https://skyline.github.com/astragode/2023) -->
 <!-- - [2022 GitHub Skyline](https://skyline.github.com/astragode/2022) -->
@@ -130,5 +128,5 @@ This way, I can keep my personal projects separate from my school projects and m
 <!-- - [2020 GitHub Skyline](https://skyline.github.com/astragode/2020) -->
 
 <div align="right" style="text-align: right;">
-    <p>© 2022 - 2024 <a href="https://gh.astrago.de">AstragoDE</a></p>
+    <p>© 2022 - 2025 <a href="https://gh.astrago.de">AstragoDE</a></p>
 </div>
