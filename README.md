@@ -36,6 +36,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 - Rust
 - Python 3
+- Java
 - Astro, Nuxt 3, HTML, CSS & Tailwind CSS
 - Docker
 - Nginx
