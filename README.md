@@ -69,6 +69,8 @@ timeline
 
     section University of Applied Sciences
         1st Semester: Java
+        2nd Semester: UML & OCL
+                    : ARM Assembly (Thumb Mode)
 ```
 
 ## My Projects 🏗️
