@@ -75,6 +75,11 @@ timeline
 
 - [Rust Template](https://git.astrago.de/AstragoDE/rust-template) - A simple Rust Template including a logger
 
+## My Code 💻
+
+- [**[AstraGit]** (self-hosted Git)](https://git.astrago.de/AstragoDE): My core projects can be found here.
+- [**[Codeberg]**](https://codeberg.org/AstragoDE): Community-oriented projects are located here.
+
 ## My Goals 🥅
 
 - Continue learning [Rust](https://www.rust-lang.org/)
