@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-    <a href="https://tw.astrago.de" target="_blank">
+    <a href="https://www.twitch.tv/astragode" target="_blank">
         <img alt="Twitch Status" src="https://img.shields.io/twitch/status/astragode?style=flat-square&label=Twitch">
     </a>
-    <a href="https://yt.astrago.de" target="_blank">
+    <a href="https://www.youtube.com/@astragode" target="_blank">
         <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBwRnJ_byI-WjxTv0c0iVPw?style=flat-square&label=YouTube%20Channel%20Subscribers&color=%23ff0000">
     </a>
     <a href="https://discord.gg/bmHmDW39NH">
