@@ -79,6 +79,7 @@ timeline
 
 - [**[AstraGit]** (self-hosted Git)](https://git.astrago.de/AstragoDE): My core projects can be found here.
 - [**[Codeberg]**](https://codeberg.org/AstragoDE): Community-oriented projects are located here.
+- [**[GitHub]**](https://github.com/AstragoDE): Old projects and contributions to projects hosted on GitHub can be found here. New Repositories will be added on AstraGit or Codeberg exclusively.
 
 ## My Goals 🥅
 
