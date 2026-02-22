@@ -11,12 +11,15 @@
 </p>
 
 <p align="center">
+  <!-- Twitch -->
     <a href="https://www.twitch.tv/astragode" target="_blank">
         <img alt="Twitch Status" src="https://img.shields.io/twitch/status/astragode?style=flat-square&label=Twitch">
     </a>
+  <!-- YouTube -->
     <a href="https://www.youtube.com/@astragode" target="_blank">
         <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBwRnJ_byI-WjxTv0c0iVPw?style=flat-square&label=YouTube%20Channel%20Subscribers&color=%23ff0000">
     </a>
+  <!-- Discord -->
     <a href="https://discord.gg/bmHmDW39NH">
         <img alt="Discord" src="https://img.shields.io/discord/1078699274273034371?style=flat-square&label=Discord%20Support%20Server&color=5869e9&cacheSeconds=5">
     </a>
