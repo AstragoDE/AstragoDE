@@ -76,14 +76,14 @@ timeline
 
 ## My Projects 🏗️
 
-- [Rust Template](https://git.astrago.de/AstragoDE/rust-template) - A simple Rust Template including a logger
-- [AstraFilters](https://git.astrago.de/AstragoDE/astrafilters) - A collection of useful uBlock Origin filters
+- [Rust Template](https://git.astrago.de/AstragoDE/rust-template): A simple Rust Template including a logger
+- [AstraFilters](https://git.astrago.de/AstragoDE/astrafilters): A collection of useful uBlock Origin filters
 
 ## My Code 💻
 
-- [**[AstraGit]**](https://git.astrago.de/AstragoDE): My core projects can be found here.
-- [**[Codeberg]**](https://codeberg.org/AstragoDE): Community-oriented projects are located here.
-- [**[GitHub]**](https://github.com/AstragoDE): Old projects and contributions to projects hosted on GitHub can be found here. New Repositories will be added on AstraGit or Codeberg exclusively.
+- [AstraGit](https://git.astrago.de/AstragoDE): My core projects can be found here.
+- [Codeberg](https://codeberg.org/AstragoDE): Community-oriented projects are located here.
+- [GitHub](https://github.com/AstragoDE): Old projects and contributions to projects hosted on GitHub can be found here. New Repositories will be added on AstraGit or Codeberg exclusively.
 
 ## My Goals 🥅
 
