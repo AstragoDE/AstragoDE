@@ -77,6 +77,7 @@ timeline
 ## My Projects 🏗️
 
 - [Rust Template](https://git.astrago.de/AstragoDE/rust-template): A simple Rust Template including a logger
+- [Cheat Sheets](https://git.astrago.de/AstragoDE/cheat-sheets/src/branch/main/README.md): A collection of cheat sheets
 - [AstraFilters](https://git.astrago.de/AstragoDE/astrafilters): A collection of useful uBlock Origin filters
 
 ## My Code 💻
