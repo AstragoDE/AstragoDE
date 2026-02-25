@@ -34,15 +34,15 @@ I'm a computer science student from Germany and I like programming stuff.
 
 I am able to plan, develop and maintain a full application stack by using the following technologies:
 
-- Rust
-- Java
-- Python 3
-- Haskell
-- Astro & Tailwind CSS
-- Docker
-- Nginx
-- Git
-- Typst
+- [Rust](https://rust-lang.org/)
+- [Java](https://www.oracle.com/java/)
+- [Python 3](https://www.python.org/)
+- [Haskell](https://www.haskell.org/)
+- [Astro](https://astro.build/) & [Tailwind CSS](https://tailwindcss.com/)
+- [Docker](https://www.docker.com/)
+- [Nginx](https://nginx.org/en/)
+- [Git](https://git-scm.com/)
+- [Typst](https://typst.app/)
 
 ## My Programming Journey 🧭
 
