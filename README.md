@@ -36,7 +36,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 - [Rust](https://rust-lang.org/)
 - [Java](https://www.oracle.com/java/)
-- [Python 3](https://www.python.org/)
+- [Python](https://www.python.org/)
 - [Git](https://git-scm.com/)
 
 I have some experience using the following technologies:
