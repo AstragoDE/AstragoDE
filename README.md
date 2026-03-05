@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,git,blender" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,linux,windows,docker,nginx,blender" height="40"/>
 </p>
 
 <p align="center">
