@@ -3,22 +3,22 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,python,java,haskell,astro,tailwind" height="40"/>
+    <img src="https://skillicons.dev/icons?i=rust,python,java,astro,tailwind" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,nginx,windows,blender" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,nginx,windows" height="40"/>
 </p>
 
 <p align="center">
   <!-- Twitch -->
-    <a href="https://www.twitch.tv/astragode" target="_blank">
+    <!-- <a href="https://www.twitch.tv/astragode" target="_blank">
         <img alt="Twitch Status" src="https://img.shields.io/twitch/status/astragode?style=flat-square&label=Twitch">
-    </a>
+    </a> -->
   <!-- YouTube -->
-    <a href="https://www.youtube.com/@astragode" target="_blank">
+    <!-- <a href="https://www.youtube.com/@astragode" target="_blank">
         <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBwRnJ_byI-WjxTv0c0iVPw?style=flat-square&label=YouTube%20Channel%20Subscribers&color=%23ff0000">
-    </a>
+    </a> -->
   <!-- Discord -->
     <a href="https://discord.gg/bmHmDW39NH">
         <img alt="Discord" src="https://img.shields.io/discord/1078699274273034371?style=flat-square&label=Discord%20Support%20Server&color=5869e9&cacheSeconds=5">
@@ -35,8 +35,8 @@ I'm a computer science student from Germany and I like programming stuff.
 I am able to plan, develop and maintain a full application stack by using the following technologies:
 
 - [Rust](https://rust-lang.org/)
-- [Java](https://www.oracle.com/java/)
 - [Python](https://www.python.org/)
+- [Java](https://www.oracle.com/java/)
 - [Git](https://git-scm.com/)
 
 I have some experience using the following technologies:
@@ -55,13 +55,13 @@ timeline
     title My Programming Journey
 
     section Elementary School
-        2nd Grade       : Member of the School's Computer Club
-        4th Grade       : Redstone contraptions with Command Blocks in Minecraft
+        2nd Grade       : Member of the school's computer club
+        4th Grade       : Coding with Command Blocks in Minecraft
 
     section Secondary School
-        5th Grade       : Android Apps using the MIT App Inventor
+        5th Grade       : Android apps using the MIT App Inventor
         7th Grade       : HTML, CSS & JS
-                        : Member of the School's Computer Club
+                        : Member of the school's computer club
         8th Grade       : Python
         9th Grade       : Arduino
         10th Grade      : Flutter & Dart
@@ -93,6 +93,7 @@ timeline
 ## My Goals 🥅
 
 - Continue learning [Rust](https://www.rust-lang.org/)
+- Learn [Bevy](https://bevy.org/)
 - Learn [PostgreSQL](https://www.postgresql.org/)
 
 ## Contact 📬
