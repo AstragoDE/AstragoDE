@@ -3,11 +3,11 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,java,python,haskell,astro,tailwind" height="40"/>
+    <img src="https://skillicons.dev/icons?i=rust,python,java,haskell,astro,tailwind" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,windows,docker,nginx,blender" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,nginx,windows,blender" height="40"/>
 </p>
 
 <p align="center">
