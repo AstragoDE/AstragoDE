@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,nginx,windows" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,windows" height="40"/>
 </p>
 
 <p align="center">
@@ -42,10 +42,10 @@ I am able to plan, develop and maintain a full application stack by using the fo
 I have some experience using the following technologies:
 
 - [Astro](https://astro.build/) & [Tailwind CSS](https://tailwindcss.com/)
-- [Haskell](https://www.haskell.org/)
 - [Docker](https://www.docker.com/)
-- [Nginx](https://nginx.org/en/)
+- [Caddy](https://caddyserver.com/)
 - [Typst](https://typst.app/)
+- [Haskell](https://www.haskell.org/)
 
 
 ## My Programming Journey 🧭
