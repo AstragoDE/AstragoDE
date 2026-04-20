@@ -100,4 +100,4 @@ timeline
 
 You can get in touch with me via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOZ5kqCVAjom2DfaeiOooklw_xfUqaf9RN1v2X53nldh200w/viewform?usp=sf_link) or via my [Discord Support Server](https://discord.gg/bmHmDW39NH).
 
-<details><summary>Discord Status</summary><a href="https://discord.com/users/812370844406775808"><img src="https://lanyard.cnrad.dev/api/812370844406775808?idleMessage=I%20am%20currently%20offline.&showDisplayName=true" alt="My current Discord status"/></a></details>
+<details><summary>Discord Status</summary><a href="https://discord.com/users/812370844406775808"><img src="https://lanyard.cnrad.dev/api/812370844406775808?showDisplayName=true" alt="My current Discord status"/></a></details>
