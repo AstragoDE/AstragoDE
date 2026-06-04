@@ -43,9 +43,10 @@ I have some experience using the following technologies:
 
 - [Astro](https://astro.build/) & [Tailwind CSS](https://tailwindcss.com/)
 - [Docker](https://www.docker.com/)
-- [Caddy](https://caddyserver.com/)
 - [Typst](https://typst.app/)
+- [Caddy](https://caddyserver.com/)
 - [Haskell](https://www.haskell.org/)
+- [Flutter](https://flutter.dev/)
 
 
 ## My Programming Journey 🧭
