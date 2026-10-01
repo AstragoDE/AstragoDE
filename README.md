@@ -77,6 +77,7 @@ timeline
                         : ARM Assembly (thumb mode)
         3rd Semester    : Haskell
                         : SQL
+        5th Semester    : C
 ```
 
 ## My Projects 🏗️
