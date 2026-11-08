@@ -3,11 +3,15 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,python,java,astro,tailwind" height="40"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,python,java,astro,tailwindcss" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker" height="40"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,forgejo,linux,docker,caddy,typst" height="40"/>
+</p>
+
+<p align="center">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=zed,vscodium,ghostty,librewolf,cachyos" height="40"/>
 </p>
 
 <p align="center">
@@ -45,8 +49,7 @@ I have some experience using the following technologies:
 - [Docker](https://www.docker.com/)
 - [Typst](https://typst.app/)
 - [Caddy](https://caddyserver.com/)
-- [Haskell](https://www.haskell.org/)
-- [Flutter](https://flutter.dev/)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
 
 
 ## My Programming Journey 🧭
@@ -56,13 +59,13 @@ timeline
     title My Programming Journey
 
     section Elementary School
-        2nd Grade       : Member of the school's computer club
+        2nd Grade       : Member of my school's computer club
         4th Grade       : Coding with Command Blocks in Minecraft
 
     section Secondary School
         5th Grade       : Android apps using the MIT App Inventor
         7th Grade       : HTML, CSS & JS
-                        : Member of the school's computer club
+                        : Member of my school's computer club
         8th Grade       : Python
         9th Grade       : Arduino
         10th Grade      : Flutter & Dart
@@ -83,18 +86,20 @@ timeline
 ## My Projects 🏗️
 
 - [Rust Template](https://git.astrago.de/AstragoDE/rust-template): A simple Rust Template including a logger
-- [Cheat Sheets](https://git.astrago.de/AstragoDE/cheat-sheets/src/branch/main/README.md): A collection of cheat sheets
+- [Cheat Sheets](https://git.astrago.de/AstragoDE/cheat-sheets/src/branch/main/README.md): A small collection of cheat sheets
 - [AstraFilters](https://git.astrago.de/AstragoDE/astrafilters): A collection of useful uBlock Origin filters
 
 ## My Code 💻
 
 - [AstraGit](https://git.astrago.de/AstragoDE): My core projects can be found here.
 - [Codeberg](https://codeberg.org/AstragoDE): Community-oriented projects are located here.
-- [GitHub](https://github.com/AstragoDE): Old projects and contributions to projects hosted on GitHub can be found here. New Repositories will be added on AstraGit or Codeberg exclusively.
+- [GitHub](https://github.com/AstragoDE): Some old projects and contributions to projects hosted on GitHub can be found here. New Repositories will be added on AstraGit or Codeberg exclusively.
 
 ## My Goals 🥅
 
-- Continue learning [Rust](https://www.rust-lang.org/)
+- Improving my skills in [Rust](https://www.rust-lang.org/)
+- Learn [Topcoat](https://github.com/tokio-rs/topcoat)
+- Learn [GPUI Kit](https://gpui-kit.com/)
 - Learn [Bevy](https://bevy.org/)
 - Learn [PostgreSQL](https://www.postgresql.org/)
 
