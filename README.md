@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=zed,vscodium,ghostty,librewolf,cachyos" height="40"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=zed,vscodium,idea,ghostty,librewolf,cachyos" height="40"/>
 </p>
 
 <p align="center">
