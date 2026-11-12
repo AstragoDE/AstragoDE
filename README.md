@@ -3,15 +3,15 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,python,java,astro,tailwindcss" height="40"/>
+    <img src="https://skill-icons.astrago.de/api/icons?i=rust,python,java,astro,tailwindcss" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,forgejo,linux,docker,caddy,typst" height="40"/>
+    <img src="https://skill-icons.astrago.de/api/icons?i=git,forgejo,linux,docker,caddy,typst" height="40"/>
 </p>
 
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=zed,vscodium,idea,ghostty,kitty,librewolf,cachyos" height="40"/>
+    <img src="https://skill-icons.astrago.de/api/icons?i=zed,vscodium,idea,ghostty,kitty,librewolf,cachyos" height="40"/>
 </p>
 
 <p align="center">
